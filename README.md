@@ -10,10 +10,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- FontAwesome JS-->
-	<script defer src="all.min.js"></script>
+	<script defer src="h3\all.min.js"></script>
 
 	<!-- Theme CSS -->
-	<link id="theme-style" rel="stylesheet" href="theme-2.css">
+	<link id="theme-style" rel="stylesheet" href="h3\theme-2.css">
 
 
 
@@ -33,7 +33,7 @@
 
 			<div id="navigation" class="collapse navbar-collapse flex-column">
 				<div class="profile-section pt-3 pt-lg-0">
-					<img class="profile-image mb-3 rounded-circle mx-auto" src="profile.jpg" alt="image">
+					<img class="profile-image mb-3 rounded-circle mx-auto" src="h3\profile.jpg" alt="image">
 
 					<div class="bio mb-3">Student of National Taiwan University, major in Political Science.
 						<p></p>
