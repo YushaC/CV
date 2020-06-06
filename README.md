@@ -1,6 +1,4 @@
 <head>
-    <!DOCTYPE html>
-    <html lang="en">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Yusha's CV" />
@@ -363,7 +361,7 @@
                                     alt="image">
                             </div>
                             <div class="col">
-                                <p style=text-align:center>Recommended Speaker of Youth Development Administration,<br>
+                                <p>Recommended Speaker of Youth Development Administration,<br>
                                     Ministry of Education
                                 </p>
                                 <img class="img-fluid"
@@ -377,7 +375,7 @@
                         <h3 class="mb-0"><br>Event planning and management</h3>
                         <div class="row" style="text-align:center">
                             <div class="col">
-                                <p style=text-align:center>Organized PR event as AIESEC MarCom Branding Mgr.,<br>
+                                <p>Organized PR event as AIESEC MarCom Branding Mgr.,<br>
                                     engaged with 1000+ TA
                                 </p>
                                 <img class="img-fluid"
@@ -385,7 +383,7 @@
                                     alt="image">
                             </div>
                             <div class="col">
-                                <p style=text-align:center>Organized diverse events as Student Speaker,<br> with 90%+
+                                <p>Organized diverse events as Student Speaker,<br> with 90%+
                                     satisfied feedback on average
                                 </p>
                                 <img class="img-fluid"
@@ -398,14 +396,14 @@
                             <h3 class="mb-0"><br>International Volunteering</h3>
                             <div class="row" style="text-align:center">
                                 <div class="col">
-                                    <p style=text-align:center>My children when volunteering in Indonesia
+                                    <p>My children when volunteering in Indonesia
                                     </p>
                                     <img class="img-fluid"
                                         src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ad9cd40c-6a1d-4a99-8094-3abc4cd9e9be.png"
                                         alt="image">
                                 </div>
                                 <div class="col">
-                                    <p style=text-align:center>With them I learnt global perspectives
+                                    <p>With them I learnt global perspectives
                                     </p>
                                     <img class="img-fluid"
                                         src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ba2bb179-20ea-43e0-af42-e4e6dbffde17.png"
