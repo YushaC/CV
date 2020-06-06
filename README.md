@@ -10,12 +10,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- FontAwesome JS-->
-	<script defer src="h3/all.min.js"></script>
+	<script defer src="hw3/all.min.js"></script>
 
 	<!-- Theme CSS -->
-	<link id="theme-style" rel="stylesheet" href="h3/theme-2.css">
+	<link id="theme-style" rel="stylesheet" href="hw3/theme-2.css">
 
-
+	<style>
+		font-family: "微軟正黑體",
+		sans-serif;
+	</style>
 
 </head>
 
@@ -33,7 +36,7 @@
 
 			<div id="navigation" class="collapse navbar-collapse flex-column">
 				<div class="profile-section pt-3 pt-lg-0">
-					<img class="profile-image mb-3 rounded-circle mx-auto" src="h3/profile.jpg" alt="image">
+					<img class="profile-image mb-3 rounded-circle mx-auto" src="hw3/profile.jpg" alt="image">
 
 					<div class="bio mb-3">Student of National Taiwan University, major in Political Science.
 						<p></p>
@@ -93,7 +96,7 @@
 						<ul>
 							<li>MS office</li>
 							<li>Python</li>
-							<li>商管程式設計</li>
+							<li>前端程式設計</li>
 							<li>專案管理、活動企劃執行</li>
 							<li>數位行銷、品牌形象管理</li>
 						</ul>
@@ -177,9 +180,9 @@
 
 
 	<!-- Javascript -->
-	<script src="h3/jquery-3.3.1.min.js"></script>
-	<script src="h3/popper.min.js"></script>
-	<script src="h3/bootstrap.min.js"></script>
+	<script src="assets/plugins/jquery-3.3.1.min.js"></script>
+	<script src="assets/plugins/popper.min.js"></script>
+	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 
 
 	<!-- Footer -->
