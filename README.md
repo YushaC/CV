@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
+    <!DOCTYPE html>
+    <html lang="en">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Yusha's CV" />
@@ -354,9 +353,9 @@
                 <div class="resume-section-content">
                     <div class="flex-grow-1">
                         <h3 class="mb-0"><br>Presentation</h3>
-                        <div class="row">
+                        <div class="row" style="text-align:center">
                             <div class="col">
-                                <p style=text-align:center>7th NTU presentation Contest Champion <br> from 100+
+                                <p>7th NTU presentation Contest Champion <br> from 100+
                                     participants
                                 </p>
                                 <img class="img-fluid"
@@ -376,7 +375,7 @@
 
                     <div class="flex-grow-1">
                         <h3 class="mb-0"><br>Event planning and management</h3>
-                        <div class="row">
+                        <div class="row" style="text-align:center">
                             <div class="col">
                                 <p style=text-align:center>Organized PR event as AIESEC MarCom Branding Mgr.,<br>
                                     engaged with 1000+ TA
@@ -397,7 +396,7 @@
 
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><br>International Volunteering</h3>
-                            <div class="row">
+                            <div class="row" style="text-align:center">
                                 <div class="col">
                                     <p style=text-align:center>My children when volunteering in Indonesia
                                     </p>
