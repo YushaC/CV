@@ -1,10 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <!DOCTYPE html>
-    <html lang="en">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Yusha's CV" />
-    <meta name="WeiHsin" content="WeiHsin" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
     <title>Yusha's Resume</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
@@ -29,14 +30,17 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#strength">Strength</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#strength">Strength</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#extracurricular">Extracurricular</a>
+                </li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#collection">Collection</a></li>
             </ul>
         </div>
     </nav>
+
+
     <!-- Page Content-->
     <div class="container-fluid p-0">
         <!-- About-->
@@ -60,6 +64,53 @@
             </div>
         </section>
         <hr class="m-0" />
+
+
+        <!-- Strength-->
+        <section class="resume-section" id="strength">
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">Strength</h2>
+                <div class="subheading mb-3">Presentation</div>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>1st of NTU Presentation Contest
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Recommended Speaker of Youth
+                        Development
+                        Administration, MOE
+                    </li>
+                </ul>
+                <div class="subheading mb-3">Languages</div>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Chinese, Minnam (Native)
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>English (Fluent, TOEIC 955)
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Spanish (Conversant)
+                    </li>
+                </ul>
+                <div class="subheading mb-3">Presentation</div>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>MS office
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Marketing, Branding
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Project Management
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <hr class="m-0" />
+
+
         <!-- Experience-->
         <section class="resume-section" id="experience">
             <div class="resume-section-content">
@@ -120,7 +171,39 @@
                     </div>
                     <div class="flex-shrink-0"><span class="text-primary">Jul - Sept 2016</span></div>
                 </div>
+
+                <h5 class="mt-5">Protocol dept., MOFA</h5>
+                <p>The highest protocol unit in Taiwan. Our work represents the country, one mistake could affect our
+                    national friendship, thus I was trained to pay attention to etiquette, detail and precise working
+                    attitude. In the 21-gun salute for Nauru president, I was standing after our president Tasi.
+                </p>
+                <figure><img class="img-fluid"
+                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/1b994ef9-43e8-496f-b9d3-1fbbe0293888.png"
+                        alt="image"></figure>
+
+                <h5 class="mt-5">SEMICON Taiwan</h5>
+                <p>The second largest semiconductor exhibition in the world, including 21 international forums, 700+
+                    exhibitors and 2,000+ booths participated, attracting 50,000+ visitors on average.
+                    Participants included Executive dean William Lai, TSMC founder Morris Chang and Chairman Mark Liu,
+                    ASE President & CEO Tien Wu and other opinion leaders. Also experts from world-class R&D
+                    institutions.
+                </p>
+                <figure><img class="img-fluid"
+                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/3a082795-1d5e-49fb-9cea-d89a17734fbd.png"
+                        alt="image"></figure>
+
+                <h5 class="mt-5">Dept of Biomedical Engineering, NCKU</h5>
+                <p>At that time, the national policy focus on the development of the biomedical industry. Thus we carry
+                    out the research case of the Ministry of Science and Technology, tried to figure out the dilemma and
+                    solution to its development.
+                </p>
+                <figure><img class="img-fluid"
+                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/970060a2-19d8-462e-a54d-b436a97935ac.png"
+                        alt="image"></figure>
+
             </div>
+
+
         </section>
         <hr class="m-0" />
         <!-- Education-->
@@ -147,49 +230,144 @@
             </div>
         </section>
         <hr class="m-0" />
-        <!-- Strength-->
-        <section class="resume-section" id="strength">
-            <div class="resume-section-content">
-                <h2 class="mb-5">Strength</h2>
-                <div class="subheading mb-3">Presentation</div>
-                <ul class="fa-ul mb-0">
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>1st of NTU Presentation Contest
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>Recommended Speaker of Youth Development
-                        Administration, MOE
-                    </li>
-                </ul>
-                <div class="subheading mb-3">Languages</div>
-                <ul class="fa-ul mb-0">
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>Chinese, Minnam (Native)
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>English (Fluent, TOEIC 955)
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>Spanish (Conversant)
-                    </li>
-                </ul>
-                <div class="subheading mb-3">Presentation</div>
-                <ul class="fa-ul mb-0">
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>MS office
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>Marketing, Branding
-                    </li>
-                    <li>
-                        <span class="fa-li"><i class="fas fa-check"></i></span>Project Management
-                    </li>
-                </ul>
 
+
+        <!-- Extracurricular Experience-->
+        <section class="resume-section" id="extracurricular">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Extracurricular Experience</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">NTU</h3>
+                        <div class="subheading mb-3">Student Representative</div>
+                        <ul>
+                            <li>Focus on academic affairs: elected as the chairwoman of the Academic Affairs Committee
+                                and
+                                Student Representative of the school-level curriculum committee</li>
+                            <li>Participated in the project of Youbike 2.0, and initiated the project of improving the
+                                anti-skid measures of parking lots</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Jun 2019 - Present</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Global International Symposium 2019</h3>
+                        <div class="subheading mb-3">Organizer</div>
+                        <ul>
+                            <li>Instructed by NTU, the largest domestic academic student forum, and top-rank in Asia
+                            </li>
+                            <li>Responsible for international partnership, organizing overseas sessions, English hosting
+                                during the symposium</li>
+                            <li>Speakers of GIS: General Manager of Mercedes-Benz, Director of Technical Cooperation of
+                                Google Asia Pacific, Nobel Prize winner Mr. Yuanzhe Li, Taipei Mayor Wenzhe Ke</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Aug 2017 - Jul 2018</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">WZU</h3>
+                        <div class="subheading mb-3">Student Speaker </div>
+                        <ul>
+                            <li>Also student representatives at school-level meeting, such as meeting of school affairs,
+                                student affairs, academic affairs</li>
+                            <li>Won: Legislative Distinguished Award of National College Students' Achievement Contest
+                            </li>
+                            <li>Actively participated in the National Association Parliamentarians as the WZU Speaker,
+                                organized conference and lecturing rules of procedure</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Sept 2016 - Aug 2017</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Universitas Indonesia</h3>
+                        <div class="subheading mb-3">Volunteer</div>
+                        <ul>
+                            <li>At the age of 17, as the only Taiwanese, work with 16 foreigners from 13 other countries
+                            </li>
+                            <li>Taught English to underprivileged students, affecting 100+ Indonesian students</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Jul - Sept 2015</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">AIESEC</h3>
+                        <div class="subheading mb-3">Branding Manager</div>
+                        <ul>
+                            <li>Lectured marketing and branding knowledge to project teams, an average of 2.5 sessions
+                                per
+                                month</li>
+                            <li>Organized 25 briefing sessions with an average of 70 participants, and 2 PR events with
+                                approximately 1,000 participants</li>
+                            <li>Organized two one-week English camps in junior high schools, with 60+ delegates</li>
+                            <li>As vice-chairman, organized two two-day national conferences, with 200 delegates from
+                                university</li>
+                            <li>Member of the national marketing team, responsible for the recruitment marketing
+                                strategy
+                                of all branches in Taiwan (18 branches penetrate 120+ schools)</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Mar 2014 - Feb 2016</span></div>
+                </div>
             </div>
         </section>
-	
+        <hr class="m-0" />
+
+
+
+        <!-- Collection-->
+        <section class="resume-section" id="collection">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Collection</h2>
+                <div class="resume-section-content">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Presentation</h3>
+                        <p>7th NTU presentation Contest Champion from 100+ participants
+                        </p>
+                        <figure><img class="img-fluid"
+                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/df5ee77e-822b-4ad2-87f9-a419538d2386.png"
+                                alt="image"></figure>
+                        <p>Recommended Speaker of Youth Development Administration, Ministry of Education
+                        </p>
+                        <figure><img class="img-fluid"
+                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/5ba32f66-4882-4fdf-acc6-91c726377493.png"
+                                alt="image"></figure>
+                    </div>
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Event planning and management</h3>
+                        <p>Organized PR event as AIESEC MarCom Branding Mgr., engaged with 1000+ TA
+                        </p>
+                        <figure><img class="img-fluid"
+                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/43f0b296-402c-4d51-a7bc-b496fa2f2271.png"
+                                alt="image"></figure>
+                        <p>Organized diverse events as Student Speaker, with 90%+ satisfied feedback on average
+                        </p>
+                        <figure><img class="img-fluid"
+                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/24f35fe3-1187-4571-92ad-fa8dcbf1c640.png"
+                                alt="image"></figure>
+                    </div>
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">International Volunteering</h3>
+                        <p>My children when volunteering in Indonesia
+                        </p>
+                        <figure><img class="img-fluid"
+                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ad9cd40c-6a1d-4a99-8094-3abc4cd9e9be.png"
+                                alt="image"></figure>
+                        <p>With them I learnt global perspectives
+                        </p>
+                        <figure><img class="img-fluid"
+                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ba2bb179-20ea-43e0-af42-e4e6dbffde17.png"
+                                alt="image"></figure>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
+
+
     <!-- Bootstrap core JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
