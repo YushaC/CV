@@ -93,7 +93,7 @@
 						<ul>
 							<li>MS office</li>
 							<li>Python</li>
-							<li>前端程式設計</li>
+							<li>商管程式設計</li>
 							<li>專案管理、活動企劃執行</li>
 							<li>數位行銷、品牌形象管理</li>
 						</ul>
