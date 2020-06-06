@@ -1,206 +1,203 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 
 <head>
-	<title>Yusha</title>
-
-	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<!-- FontAwesome JS-->
-	<script defer src="hw3/all.min.js"></script>
-
-	<!-- Theme CSS -->
-	<link id="theme-style" rel="stylesheet" href="hw3/theme-2.css">
-
-	<style>
-		font-family: "微軟正黑體",
-		sans-serif;
-	</style>
-
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Yusha's CV" />
+    <meta name="WeiHsin" content="WeiHsin" />
+    <title>Yusha's Resume</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet"
+        type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
 </head>
 
-<body>
+<body id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top"><span class="d-block d-lg-none">WeiHsin
+                Cheng</span><span class="d-none d-lg-block"><img
+                    class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg"
+                    alt="" /></span></a><button class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#strength">Strength</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Page Content-->
+    <div class="container-fluid p-0">
+        <!-- About-->
+        <section class="resume-section" id="about">
+            <div class="resume-section-content">
+                <h1 class="mb-0">WeiHsin <span class="text-primary">Cheng</span></h1>
+                <div class="subheading mb-5">Taipei · 0952-969-257 · <a
+                        href="mailto:b06302361@ntu.edu.tw">b06302361@ntu.edu.tw</a></div>
+                <p class="lead mb-5">
+                    Student of National Taiwan University, major in Political Science.
+                    I like to catch up with the latest trend, especially the fields of technology, fashion, life-style
+                    changing. I love to learn new things. I am now taking courses of MKT big data and python.
+                    I can adapt well to the environment of multiple projects, but still emphasize responsibility,
+                    quality and efficiency</p>
+                <div class="social-icons">
+                    <a class="social-icon" href="https://yushac.github.io/CV/"><i class="fab fa-github"></i></a><a
+                        class="social-icon"
+                        href="https://www.facebook.com/profile.php?id=100000317275873&ref=bookmarks"><i
+                            class="fab fa-facebook-f"></i></a>
+                </div>
+            </div>
+        </section>
+        <hr class="m-0" />
+        <!-- Experience-->
+        <section class="resume-section" id="experience">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Experience</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Protocol dept., Ministry of Foreign Affairs</h3>
+                        <div class="subheading mb-3">PT</div>
+                        <ul>
+                            <li>Executed, and supported a wide range of ceremonial and official functions hosted by the
+                                President, Vice President, Minister of Foreign Affairs, and other high-ranking
+                                Government
+                                officials</li>
+                            <li>Organized the participation of the Diplomatic Corps in special events and official
+                                public
+                                events</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Jun 2019 - Present</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Apply Consultancy</h3>
+                        <div class="subheading mb-3">Consultant</div>
+                        <ul>
+                            <li>Consultant of EMBA application, assisting in polishing autobiography and professional
+                                experience</li>
+                            <li>Exposure to diverse industries, covering department stores, preschool education,
+                                finance, food, etc.</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Oct 2019 - Present</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">SEMICON Taiwan</h3>
+                        <div class="subheading mb-3">PA</div>
+                        <ul>
+                            <li>Responsible for the overall preparation of several forums </li>
+                            <li>Contacted speakers, communicated between SEMI and speakers</li>
+                            <li>Management and coordination of on-site personnel</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">2018 , 2019</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Dept of Biomedical Engineering, NCKU</h3>
+                        <div class="subheading mb-3">RA</div>
+                        <ul>
+                            <li>Topics: (1) Market development dilemma of medical equipment manufacturers
+                                in STSP (2) Medical big data</li>
+                            <li>Researched and Analyzed business model of medical equipment manufacturers</li>
+                            <li>Design interview program and participate in interviews medical equipment manufacturers
+                                and users</li>
+                            <li>Assist in research papers collection and translation</li>
+                        </ul>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Jul - Sept 2016</span></div>
+                </div>
+            </div>
+        </section>
+        <hr class="m-0" />
+        <!-- Education-->
+        <section class="resume-section" id="education">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Education</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">National Taiwan University (NTU)</h3>
+                        <div class="subheading mb-3">Political Science | Bachelor</div>
+                        <p>Top-rank university in Taiwan, enrolled as Top 3 in the entrance exam</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">2018 - 2021</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Wenzao Ursuline University of Languages (WZU)</h3>
+                        <div class="subheading mb-3"> Spanish | Associate bachelor </div>
+                        <p>Only one language university in Taiwan, graduated with GPA 4.0 and times of scholarship of
+                            outstanding extracurricular performance</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+                </div>
+            </div>
+        </section>
+        <hr class="m-0" />
+        <!-- Strength-->
+        <section class="resume-section" id="strength">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Strength</h2>
+                <div class="subheading mb-3">Presentation</div>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>1st of NTU Presentation Contest
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Recommended Speaker of Youth Development
+                        Administration, MOE
+                    </li>
+                </ul>
+                <div class="subheading mb-3">Languages</div>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Chinese, Minnam (Native)
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>English (Fluent, TOEIC 955)
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Spanish (Conversant)
+                    </li>
+                </ul>
+                <div class="subheading mb-3">Presentation</div>
+                <ul class="fa-ul mb-0">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>MS office
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Marketing, Branding
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-check"></i></span>Project Management
+                    </li>
+                </ul>
 
-	<header class="header text-center">
-		<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Hi I'm Yusha </a></h1>
-
-		<nav class="navbar navbar-expand-lg navbar-dark">
-
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-				aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-
-			<div id="navigation" class="collapse navbar-collapse flex-column">
-				<div class="profile-section pt-3 pt-lg-0">
-					<img class="profile-image mb-3 rounded-circle mx-auto" src="hw3/profile.jpg" alt="image">
-
-					<div class="bio mb-3">Student of National Taiwan University, major in Political Science.
-						<p></p>
-						<p>b06302361@ntu.edu.tw</p>
-					</div>
-					<!--//bio-->
-
-					<ul class="social-list list-inline py-3 mx-auto">
-						<li class="list-inline-item"><a
-								href="https://www.facebook.com/profile.php?id=100000317275873&ref=bookmarks"><i
-									class="fab fa-facebook fa-fw"></i></a></li>
-						<li class="list-inline-item"><a href="#"><i class="fab fa-line fa-fw"></i></a></li>
-					</ul>
-					<!--//social-list-->
-					<hr>
-				</div>
-			</div>
-		</nav>
-	</header>
-
-	<div class="main-wrapper">
-
-		<article class="about-section py-5">
-			<div class="container">
-				<h2 class="title mb-3">About Me</h2>
-
-				<p>臺大政治大三，文藻外大五專部西班牙文科畢業生。熱愛時尚、科技、生活型態等各域的新潮趨勢。
-					喜歡充實自我，目前正在學習大數據行銷分析與程式語言。能良好適應多重專案的環境，但仍講求責任、品質與效率。
-					我相信努力，人一能之，己百之；人十能之，己千之。</p>
-
-				<div class="row">
-					<div class="col">
-						<h5 class="title mb-3"><b>溝通表達</b></h5>
-						<p></p>
-						<ul>
-							<li>台大盃簡報大賽
-								<br>2019年冠軍</li>
-							<li>教育部青年發展署
-								<br>推薦講師</li>
-							<li>波蘭市長在台期間秘書</li>
-						</ul>
-					</div>
-					<div class="col">
-						<h5 class="title mb-3"><b>語言能力</b></h5>
-						<p></p>
-						<ul>
-							<li>Chinese, Minnam<br>
-								(Native)</li>
-							<li>English <br>
-								(Fluent, TOEIC 955)</li>
-							<li>Spanish (Conversant)</li>
-						</ul>
-					</div>
-					<div class="col">
-						<h5 class="title mb-3"><b>專業技能</b></h5>
-						<p></p>
-						<ul>
-							<li>MS office</li>
-							<li>Python</li>
-							<li>前端程式設計</li>
-							<li>專案管理、活動企劃執行</li>
-							<li>數位行銷、品牌形象管理</li>
-						</ul>
-					</div>
-				</div>
-
-
-				<p></p>
-				<h2 class="title mb-3">工作經驗</h2>
-				<div class="row" title="">
-
-					<div class="col-xs-10 col-sm-11 item">
-						<h5 class="mt-5">外交部禮賓處 | 工讀生 | 2019 年 6 月 - 至今</h5>
-						<div>
-							<ul>
-								<li><span style="font-size: 14px;">籌辦國家級重要典禮（國慶大典、總統就職典禮、軍禮）</span></li>
-								<li><span style="font-size: 14px;">禮賓接待國家級貴賓（友國元首與重要官員）</span></li>
-								<li><span style="font-size: 14px;">聯繫重要人士（五院首長、駐台大使與代表）</span></li>
-							</ul>
-
-
-							<h5 class="mt-5"><b>愛普倈顧問 ｜ 書審顧問 | 2018年 10月 - 至今</h5>
-							<ul>
-								<li><span style="font-size: 14px;">全台各大學在職專班EMBA書審顧問與代寫</span></li>
-								<li><span style="font-size: 14px;">接觸產業多元，遍及百貨、幼教、金融、食品等</span></li>
-							</ul>
-							<h5 class="mt-5">SEMICON&nbsp; Taiwan 國際半導體展 | 專案人員 |2018 年、2019 年</h5>
-							<ul>
-								<li><span style="font-size: 14px;">負責數場論壇之整體籌備工作<br></span></li>
-								<li><span style="font-size: 14px;">聯繫國內外論壇講師</span></li>
-								<li><span style="font-size: 14px;">管理與協調會展現場人員</span></li>
-							</ul>
-							<h5 class="mt-5">成大生物醫學工程系 | 研究助理 | 2016 年 7月 - 9月</h5>
-							<ul>
-								<li><span style="font-size: 14px;"><span>研究主題有二：(1) 研究南科醫療器材廠商之市場發展困境
-											(2)&nbsp;</span>醫療巨量(Medical big data)</span></li>
-								<li><span style="font-size: 14px;">各家廠商之商業研究與剖析，設計訪綱並參與訪談</span></li>
-								<li><span style="font-size: 14px;">協助研究相關文獻蒐集與翻譯</span></li>
-							</ul>
-							<h5 class="mt-5">居家醫療 | 工讀生 | 2016 年3月 - 2018年 2月</h5>
-							<ul>
-								<li><span style="font-size: 14px;">門市經營、顧客服務、醫療器材介紹</span></li>
-							</ul>
-
-
-						</div>
-					</div>
-
-
-					<h5 class="mt-5">外交部禮賓處</h5>
-					<p>我國最高之禮賓單位，除了負責國家重要典禮，也經常聯繫國家重要人士。
-						由於工作內容皆代表著國家，一旦失誤，可能影響我國的邦誼，因此培養我注重禮節、細節與精準的工作態度。
-					</p>
-					<figure><img class="img-fluid"
-							src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/1b994ef9-43e8-496f-b9d3-1fbbe0293888.png"
-							alt="image"></figure>
-
-					<h5 class="mt-5">SEMICON 國際半導體展</h5>
-					<p>全球第二大半導體展，包含21 場國際級論壇， 以及超過 700 家展商及逾2千個攤位參展，平均吸引超過 50,000 參展者。
-						出席人士包含行政院長賴清德、台積電創辦人張忠謀、董事長劉德音、廣達電腦董事長林百里、日月光總經理暨執行長吳田玉等意見領袖。
-					</p>
-					<figure><img class="img-fluid"
-							src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/3a082795-1d5e-49fb-9cea-d89a17734fbd.png"
-							alt="image"></figure>
-
-					<h5 class="mt-5">成大生物醫學工程系</h5>
-					<p>隸屬陳芃婷老師研究團隊。在當時臺灣發展生醫產業的政策方向下，進行科技部的研究案。
-						程中學到的簡報、商業剖析、訪談、研究技巧等，甚至是大量閱讀期刊所得到的知識，都對我的未來造成極大且全方面的助益，運用在各領域的學習之上。
-					</p>
-					<figure><img class="img-fluid"
-							src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/970060a2-19d8-462e-a54d-b436a97935ac.png"
-							alt="image"></figure>
-
-				</div>
-		</article>
-		<!--//about-section-->
-
-
-	</div>
-	<!--//main-wrapper-->
-
-
-	<!-- Javascript -->
-	<script src="assets/plugins/jquery-3.3.1.min.js"></script>
-	<script src="assets/plugins/popper.min.js"></script>
-	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-
-
-	<!-- Footer -->
-	<footer id="footer" class="footer section">
-		<div class="copyright">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<p>© 2020 Thank you! </p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!--/ End Footer -->
-
-
-
+            </div>
+        </section>
+	
+    </div>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <!-- Third party plugin JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
 </body>
 
 </html>
