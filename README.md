@@ -177,9 +177,9 @@
 
 
 	<!-- Javascript -->
-	<script src="assets/plugins/jquery-3.3.1.min.js"></script>
-	<script src="assets/plugins/popper.min.js"></script>
-	<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<script src="h3/jquery-3.3.1.min.js"></script>
+	<script src="h3/popper.min.js"></script>
+	<script src="h3/bootstrap.min.js"></script>
 
 
 	<!-- Footer -->
