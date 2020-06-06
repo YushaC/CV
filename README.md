@@ -1,8 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="Yusha's CV" />
+    <meta name="author" content="Yusha" />
     <title>Yusha's Resume</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
@@ -13,6 +16,8 @@
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
+
+
 </head>
 
 <body id="page-top">
@@ -165,44 +170,71 @@
                                 and users</li>
                             <li>Assist in research papers collection and translation</li>
                         </ul>
+                        <br>
+                        <br>
+                        <br>
                     </div>
                     <div class="flex-shrink-0"><span class="text-primary">Jul - Sept 2016</span></div>
                 </div>
 
-                <h5 class="mt-5">Protocol dept., MOFA</h5>
-                <p>The highest protocol unit in Taiwan. Our work represents the country, one mistake could affect our
-                    national friendship, thus I was trained to pay attention to etiquette, detail and precise working
-                    attitude. In the 21-gun salute for Nauru president, I was standing after our president Tasi.
-                </p>
-                <figure><img class="img-fluid"
-                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/1b994ef9-43e8-496f-b9d3-1fbbe0293888.png"
-                        alt="image"></figure>
 
-                <h5 class="mt-5">SEMICON Taiwan</h5>
-                <p>The second largest semiconductor exhibition in the world, including 21 international forums, 700+
-                    exhibitors and 2,000+ booths participated, attracting 50,000+ visitors on average.
-                    Participants included Executive dean William Lai, TSMC founder Morris Chang and Chairman Mark Liu,
-                    ASE President & CEO Tien Wu and other opinion leaders. Also experts from world-class R&D
-                    institutions.
-                </p>
-                <figure><img class="img-fluid"
-                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/3a082795-1d5e-49fb-9cea-d89a17734fbd.png"
-                        alt="image"></figure>
+                <div class="row">
+                    <div class="col">
+                        <img class="img-fluid"
+                            src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/1b994ef9-43e8-496f-b9d3-1fbbe0293888.png"
+                            alt="image">
+                    </div>
+                    <div class="col">
+                        <h5 class="mt-5">Protocol dept., MOFA</h5>
+                        <p>The highest protocol unit in Taiwan. Our work represents the country, one mistake could
+                            affect our national friendship, thus I was trained to pay attention to etiquette, detail and
+                            precise working attitude. In the 21-gun salute for Nauru president, I was standing after our
+                            president Tasi.
+                        </p>
+                    </div>
+                </div>
 
-                <h5 class="mt-5">Dept of Biomedical Engineering, NCKU</h5>
-                <p>At that time, the national policy focus on the development of the biomedical industry. Thus we carry
-                    out the research case of the Ministry of Science and Technology, tried to figure out the dilemma and
-                    solution to its development.
-                </p>
-                <figure><img class="img-fluid"
-                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/970060a2-19d8-462e-a54d-b436a97935ac.png"
-                        alt="image"></figure>
+                <div class="row">
+                    <div class="col">
+                        <h5 class="mt-5">SEMICON Taiwan</h5>
+                        <p>The second largest semiconductor exhibition in the world, including 21 international forums,
+                            700+ exhibitors and 2,000+ booths participated, attracting 50,000+ visitors on average.
+                            Participants included Executive dean William Lai, TSMC founder Morris Chang and Chairman
+                            Mark Liu, ASE President & CEO Tien Wu and other opinion leaders. Also experts from
+                            world-class R&D institutions.
+                        </p>
+                    </div>
+                    <div class="col">
+                        <img class="img-fluid"
+                            src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/3a082795-1d5e-49fb-9cea-d89a17734fbd.png"
+                            alt="image">
+                    </div>
+                </div>
 
+
+                <div class="row">
+                    <div class="col">
+                        <img class="img-fluid"
+                            src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/970060a2-19d8-462e-a54d-b436a97935ac.png"
+                            alt="image">
+                    </div>
+                    <div class="col">
+                        <h5 class="mt-5">Dept of Biomedical Engineering, NCKU</h5>
+                        <p>At that time, the national policy focus on the development of the biomedical industry. Thus
+                            we
+                            carry
+                            out the research case of the Ministry of Science and Technology, tried to figure out the
+                            dilemma
+                            and
+                            solution to its development.
+                        </p>
+                    </div>
+                </div>
             </div>
-
-
         </section>
         <hr class="m-0" />
+
+
         <!-- Education-->
         <section class="resume-section" id="education">
             <div class="resume-section-content">
@@ -222,7 +254,7 @@
                         <p>Only one language university in Taiwan, graduated with GPA 4.0 and times of scholarship of
                             outstanding extracurricular performance</p>
                     </div>
-                    <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+                    <div class="flex-shrink-0"><span class="text-primary">2013 - 2018</span></div>
                 </div>
             </div>
         </section>
@@ -321,43 +353,67 @@
                 <h2 class="mb-5">Collection</h2>
                 <div class="resume-section-content">
                     <div class="flex-grow-1">
-                        <h3 class="mb-0">Presentation</h3>
-                        <p>7th NTU presentation Contest Champion from 100+ participants
-                        </p>
-                        <figure><img class="img-fluid"
-                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/df5ee77e-822b-4ad2-87f9-a419538d2386.png"
-                                alt="image"></figure>
-                        <p>Recommended Speaker of Youth Development Administration, Ministry of Education
-                        </p>
-                        <figure><img class="img-fluid"
-                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/5ba32f66-4882-4fdf-acc6-91c726377493.png"
-                                alt="image"></figure>
+                        <h3 class="mb-0"><br>Presentation</h3>
+                        <div class="row">
+                            <div class="col">
+                                <p style=text-align:center>7th NTU presentation Contest Champion <br> from 100+
+                                    participants
+                                </p>
+                                <img class="img-fluid"
+                                    src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/df5ee77e-822b-4ad2-87f9-a419538d2386.png"
+                                    alt="image">
+                            </div>
+                            <div class="col">
+                                <p style=text-align:center>Recommended Speaker of Youth Development Administration,<br>
+                                    Ministry of Education
+                                </p>
+                                <img class="img-fluid"
+                                    src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/5ba32f66-4882-4fdf-acc6-91c726377493.png"
+                                    alt="image">
+                            </div>
+                        </div>
                     </div>
+
                     <div class="flex-grow-1">
-                        <h3 class="mb-0">Event planning and management</h3>
-                        <p>Organized PR event as AIESEC MarCom Branding Mgr., engaged with 1000+ TA
-                        </p>
-                        <figure><img class="img-fluid"
-                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/43f0b296-402c-4d51-a7bc-b496fa2f2271.png"
-                                alt="image"></figure>
-                        <p>Organized diverse events as Student Speaker, with 90%+ satisfied feedback on average
-                        </p>
-                        <figure><img class="img-fluid"
-                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/24f35fe3-1187-4571-92ad-fa8dcbf1c640.png"
-                                alt="image"></figure>
-                    </div>
-                    <div class="flex-grow-1">
-                        <h3 class="mb-0">International Volunteering</h3>
-                        <p>My children when volunteering in Indonesia
-                        </p>
-                        <figure><img class="img-fluid"
-                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ad9cd40c-6a1d-4a99-8094-3abc4cd9e9be.png"
-                                alt="image"></figure>
-                        <p>With them I learnt global perspectives
-                        </p>
-                        <figure><img class="img-fluid"
-                                src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ba2bb179-20ea-43e0-af42-e4e6dbffde17.png"
-                                alt="image"></figure>
+                        <h3 class="mb-0"><br>Event planning and management</h3>
+                        <div class="row">
+                            <div class="col">
+                                <p style=text-align:center>Organized PR event as AIESEC MarCom Branding Mgr.,<br>
+                                    engaged with 1000+ TA
+                                </p>
+                                <img class="img-fluid"
+                                    src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/43f0b296-402c-4d51-a7bc-b496fa2f2271.png"
+                                    alt="image">
+                            </div>
+                            <div class="col">
+                                <p style=text-align:center>Organized diverse events as Student Speaker,<br> with 90%+
+                                    satisfied feedback on average
+                                </p>
+                                <img class="img-fluid"
+                                    src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/24f35fe3-1187-4571-92ad-fa8dcbf1c640.png"
+                                    alt="image">
+                            </div>
+                        </div>
+
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"><br>International Volunteering</h3>
+                            <div class="row">
+                                <div class="col">
+                                    <p style=text-align:center>My children when volunteering in Indonesia
+                                    </p>
+                                    <img class="img-fluid"
+                                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ad9cd40c-6a1d-4a99-8094-3abc4cd9e9be.png"
+                                        alt="image">
+                                </div>
+                                <div class="col">
+                                    <p style=text-align:center>With them I learnt global perspectives
+                                    </p>
+                                    <img class="img-fluid"
+                                        src="https://images.cakeresume.com/WY2pm/wei-hsin-cheng/ba2bb179-20ea-43e0-af42-e4e6dbffde17.png"
+                                        alt="image">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
