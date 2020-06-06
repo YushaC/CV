@@ -361,7 +361,7 @@
                                     alt="image">
                             </div>
                             <div class="col">
-                                <p>Recommended Speaker of Youth Development Administration,<br>
+                                <p>Recommended Speaker of Youth Development <br> Administration,
                                     Ministry of Education
                                 </p>
                                 <img class="img-fluid"
